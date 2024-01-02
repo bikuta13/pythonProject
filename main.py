@@ -1,7 +1,7 @@
 # This is a sample Python script.
 
 # Test Press Shift+F10 to execute it or replace it with your code.
-# Test Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Test 2bPress Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
 def print_hi(name):
